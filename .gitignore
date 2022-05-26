@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+dump_dir/
+modules/__pycache__/
+modules/*/__pycache__/
+modules/*.pyc
+modules/*/*.pyc
+results/

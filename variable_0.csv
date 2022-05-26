@@ -1,0 +1,8 @@
+modelPath,None
+learningRate,1e-3
+imageSize,256
+batchSize,32
+epochs,100
+deviceName,cuda:0
+rootPath,/HDD2/image_net/ILSVRC/Data/CLS-LOC/
+classNamePath,/HDD2/image_net/LOC_synset_mapping.txt

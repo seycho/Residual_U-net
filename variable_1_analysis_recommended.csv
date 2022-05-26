@@ -1,0 +1,5 @@
+modelPath,results/variable_1/loss_0.0438_acc_67.48%_epoch_11.pt
+dataInfosPath,results/variable_1/valid_loss_0.0438_acc_67.48%_epoch_11.dump
+classNamePath,/HDD2/image_net/LOC_synset_mapping.txt
+imageSize,256
+resultsSubjects,Accuracy/F1 score/Precision score/Sensitivity score/Classification report

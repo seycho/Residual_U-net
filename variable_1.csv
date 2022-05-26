@@ -1,0 +1,8 @@
+modelPath,results/variable_0/loss_0.0452_acc_65.51%_epoch_11.pt
+learningRate,1e-2
+imageSize,256
+batchSize,32
+epochs,100
+deviceName,cuda:0
+rootPath,/HDD2/image_net/ILSVRC/Data/CLS-LOC/
+classNamePath,/HDD2/image_net/LOC_synset_mapping.txt
